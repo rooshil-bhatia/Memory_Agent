@@ -1,6 +1,7 @@
 # Memory_Agent
 A Memory agent which creates/updates memories of the user to give context to LLM.
 
+![My Image](upload.jpg)
 
 #### 1)  git clone the repository.
 ```
@@ -23,7 +24,6 @@ python memory_agent.py
 
 #### 5) While chatting you can type <b> "list memories" <b> to see your current saved memories.
 
-#### 6) Example Usage:
 
 
 
