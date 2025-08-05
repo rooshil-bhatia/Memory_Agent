@@ -15,4 +15,12 @@ GROQ_API_KEY="YOUR_API_KEY"
 ```
 pip install -r requirements.txt
 ```
+#### 4) You can run directly the memory_agent.py using python and chat with the llm using terminal.
+
+```
+python memory_agent.py
+```
+
+#### 5) While chatting you can use the <b> list memories <b> to see your current saved memories.
+
 
