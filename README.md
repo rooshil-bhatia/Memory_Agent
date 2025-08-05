@@ -21,6 +21,6 @@ pip install -r requirements.txt
 python memory_agent.py
 ```
 
-#### 5) While chatting you can use the <b> "list memories" <b> to see your current saved memories.
+#### 5) While chatting you can type <b> "list memories" <\b> to see your current saved memories.
 
 
