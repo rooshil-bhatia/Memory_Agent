@@ -1,0 +1,7 @@
+groq
+mem0ai
+python-dotenv
+langchain-huggingface
+sentence-transformers
+torch
+langchain
